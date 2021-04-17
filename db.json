@@ -1,0 +1,14 @@
+{
+    "listCookies": [
+      {
+        "name": "GingerBrave Cookie",
+        "rarity": "Common",
+        "gender": "Male"
+      },
+      {
+        "name": "Timekeeper Cookie",
+        "rarity": "Legendary",
+        "gender": "Female"
+      }
+    ]
+  }
