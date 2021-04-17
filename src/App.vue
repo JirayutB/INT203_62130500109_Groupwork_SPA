@@ -1,6 +1,7 @@
 <template>
-  <div id="nav">
+  <div id="nav" class="bg-red-300">
     <router-link to="/">Home</router-link> |
+    <router-link to="/cookies">Cookies</router-link> |
     <router-link to="/about">About</router-link>
   </div>
   <router-view/>
@@ -21,10 +22,10 @@
 
 #nav a {
   font-weight: bold;
-  color: #2c3e50;
+  color: #4473cc;
 }
 
 #nav a.router-link-exact-active {
-  color: #42b983;
+  color: rgb(255, 255, 255);
 }
 </style>
