@@ -17,6 +17,18 @@
       "rarity": "Epic",
       "gender": "Male",
       "id": 3
+    },
+    {
+      "name": "GingerBright Cookie",
+      "rarity": "Common",
+      "gender": "Female",
+      "id": 4
+    },
+    {
+      "name": "Hello Kitty",
+      "rarity": "Special",
+      "gender": "Female",
+      "id": 5
     }
   ]
 }

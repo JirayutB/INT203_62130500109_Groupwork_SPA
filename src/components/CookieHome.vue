@@ -7,7 +7,7 @@
     Collect and upgrade Cookies & Pets to reach higher scores.
     New Cookies added every month!
     </p>
-    <router-link to="/cookies" class="text-2xl text-green-500">View Cookies</router-link>
+    <router-link to="/cookies" class="text-2xl text-green-500 font-bold">View Cookies</router-link>
     <img class="pt-8" alt="CookieRun Wallpaper" src="../assets/crob-wallpaper.jpg">
   </div>
 </template>
