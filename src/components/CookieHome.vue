@@ -1,7 +1,7 @@
 <template>
-  <div class="CookieHome font-mono">
-    <h1 class="text-4xl">THE SWEETEST RUNNING GAME EVER</h1>
-    <h2 class="text-2xl">Time for an adventure with the Cookies!</h2>
+  <div class="CookieHome font-mono text-center">
+    <h1 class="text-4xl font-bold">THE SWEETEST RUNNING GAME EVER</h1>
+    <h2 class="text-2xl font-bold">Time for an adventure with the Cookies!</h2>
     <p class="mt-16 pl-64 pr-64 text-xl pb-8">
     Brave, smart, adorable, and sometimes scary Cookies are waiting for you!
     Collect and upgrade Cookies & Pets to reach higher scores.

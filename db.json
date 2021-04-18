@@ -1,14 +1,22 @@
 {
-    "listCookies": [
-      {
-        "name": "GingerBrave Cookie",
-        "rarity": "Common",
-        "gender": "Male"
-      },
-      {
-        "name": "Timekeeper Cookie",
-        "rarity": "Legendary",
-        "gender": "Female"
-      }
-    ]
-  }
+  "listCookies": [
+    {
+      "name": "GingerBrave Cookie",
+      "rarity": "Common",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "name": "Timekeeper Cookie",
+      "rarity": "Legendary",
+      "gender": "Female",
+      "id": 2
+    },
+    {
+      "name": "Mint Choco Cookie",
+      "rarity": "Epic",
+      "gender": "Male",
+      "id": 3
+    }
+  ]
+}
