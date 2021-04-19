@@ -1,9 +1,9 @@
 <template>
-  <div class="bg-yellow-200 bg-fixed">
+  <div class="bg-yellow-200 bg-fixed font-mono">
     <h1 class="text-4xl pt-16 pb-16 text-center font-bold">Cookies</h1>
     
 
-    <div class="container pl-72 text-2xl mb-16">
+    <div class="container pl-56 text-2xl mb-16">
         <div class="cookie-container">
           <form @submit.prevent="submitForm">
             <base-card>

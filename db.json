@@ -25,10 +25,22 @@
       "id": 4
     },
     {
-      "name": "Hello Kitty",
+      "name": "Mimmy",
       "rarity": "Special",
       "gender": "Female",
       "id": 5
+    },
+    {
+      "name": "Cookiedroid",
+      "rarity": "Special",
+      "gender": "Female",
+      "id": 6
+    },
+    {
+      "name": "Sea Fairy Cookie",
+      "rarity": "Legendary",
+      "gender": "Female",
+      "id": 7
     }
   ]
 }
