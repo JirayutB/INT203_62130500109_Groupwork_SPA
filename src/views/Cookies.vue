@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-yellow-200 h-screen">
+  <div class="bg-yellow-200 bg-fixed">
     <h1 class="text-4xl pt-16 pb-16 text-center font-bold">Cookies</h1>
     
 
@@ -22,7 +22,7 @@
                 @blur="validateCookieName"
               />
 
-              <p v-if="invalidNameInput" class="text-red-500">
+              <p v-if="invalidCookieNameInput" class="text-red-500">
                 Please enter cookie name!
               </p>
 
